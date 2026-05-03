@@ -1,0 +1,21 @@
+.notice {
+  margin: 20px auto;
+  border: 2px solid #2563eb;
+  max-width: 480px;
+  border-radius: 10px;
+  background: #eff6ff;
+  padding: 20px 24px;
+}
+
+.notice_title {
+  color: #1d4ed8;
+  margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.notice_body {
+  color: #1e3a8a;
+  font-size: 14px;
+  line-height: 1.6;
+}

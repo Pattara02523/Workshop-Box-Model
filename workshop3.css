@@ -1,0 +1,33 @@
+body {
+  margin: 40px;
+}
+.panel {
+  width: 350px;
+  border: 1px solid #5e5f61;
+}
+.panel h3 {
+  margin: 0;
+  padding: 12px 16px;
+  background: #92bde7;
+  color: rgb(71, 85, 105);
+  border-bottom: 1px solid #e2e8f0;
+}
+.log {
+  height: 120px;
+  overflow-y: scroll;
+  padding: 12px 16px;
+  color: rgb(71, 85, 105);
+}
+.log p {
+  margin: 0 0 8px;
+}
+
+a {
+  border: 1px solid rgb(203, 213, 225);
+  text-decoration: none;
+  padding: 6px 16px;
+  background: aqua;
+  display: inline-block;
+  margin: 8px;
+  box-sizing: border-box;
+}

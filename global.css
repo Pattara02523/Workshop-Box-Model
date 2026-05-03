@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@100..700&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Anuphan';
+}
+
+nav a {
+  border: 1px solid #cbd5e1;
+  text-decoration: none;
+  padding: 6px 16px;
+  background: aqua;
+  display: inline-block;
+  margin: 8px;
+}
+
+nav a:hover {
+  background: aquamarine;
+}

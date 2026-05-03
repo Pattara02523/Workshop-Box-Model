@@ -1,0 +1,36 @@
+body {
+  margin: 40px;
+}
+.tag {
+  display: inline-block;
+  padding: 6px 16px;
+  margin-right: 8px;
+  border: 1px solid #cbd5e1;
+  text-decoration: none;
+  color: #475569;
+}
+.tag-hov {
+  display: inline-block;
+  padding: 6px 16px;
+  margin-right: 8px;
+  background: #2563eb;
+  border-color: #2563eb;
+  color: white;
+}
+.tag:hover {
+  padding: 6px 16px;
+  margin-right: 8px;
+  background: #f1f5f9;
+  font-weight: 500;
+  color: black;
+}
+
+a {
+  border: 1px solid rgb(203, 213, 225);
+  text-decoration: none;
+  padding: 6px 16px;
+  background: aqua;
+  display: inline-block;
+  margin: 8px;
+  box-sizing: border-box;
+}
